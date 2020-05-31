@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Param Attri</title>
+    <link>https://paramattri.github.io/Portfolio/post/</link>
+    <description>Recent content in Projects on Param Attri</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://paramattri.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>COVID-19 Detector</title>
+      <link>https://paramattri.github.io/Portfolio/post/project-1/</link>
+      <pubDate>Sun, 05 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://paramattri.github.io/Portfolio/post/project-1/</guid>
+      <description>Created a tool that detect COVID-19 in X-Ray images to help doctors to have a quick insight about the patient&amp;rsquo;s condition. Used Image Data Augmentation to increase and generalize the model. Used pre-trained VGG16 model to achieve the best results. Achieved Accuracy ~ 98%, Sensitivity ~ 95% and Specificity = 100%. Built a client facing API using Flask. Technologies Used: Python, Tensorflow, Keras &amp;amp; Flask.    GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Tracker</title>
+      <link>https://paramattri.github.io/Portfolio/post/project-2/</link>
+      <pubDate>Mon, 30 Mar 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://paramattri.github.io/Portfolio/post/project-2/</guid>
+      <description>Built a Dashboard that shows number of COVID-19 cases in India on a Choropleth Map. Application also allow users to view and interact with India&amp;rsquo;s State-wise cases on a Bar Graph using Drop-down menu. Deployed the Web Application on Heroku Cloud Platform. Technologies Used: Python, Plotly &amp;amp; Dash.    GitHub Repository Website</description>
+    </item>
+    
+  </channel>
+</rss>
